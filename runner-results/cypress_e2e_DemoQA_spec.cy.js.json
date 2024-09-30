@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 1,
+  "pending": 0,
+  "failures": 1,
+  "start": "2024-09-29T07:42:50.264Z",
+  "duration": 22772,
+  "file": "cypress/e2e/DemoQA_spec.cy.js"
+}
